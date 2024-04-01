@@ -17,6 +17,4 @@ Here are links to more information on the topics we discussed in this module:
 - [Developing in a Codespace](link_to_development_guide)
 - [Customizing your Codespace](link_to_customization_guide)
 
-## Provide feedback
 
-Use this issue form to provide content feedback or suggested changes for this Microsoft Learn module. GitHub maintains this content and a team member will triage the request. Thank you for taking the time to improve our content!
