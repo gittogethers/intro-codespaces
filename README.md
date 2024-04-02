@@ -30,3 +30,8 @@ Replace `<repository_name>` with the name of your repository. This will link the
 
 You can customize the appearance of the "Open in Codespaces" button to match your project's branding. The button image can be replaced with any other image URL, and you can style the surrounding `<a>` tag with CSS to match your project's design.
 
+## Username Monitoring Application
+
+We've introduced a new application within this repository, designed to monitor and extract usernames from comments made on the repository. This application maintains a list of unique usernames and features a function to randomly select a username from this list.
+
+For setup and usage instructions, functionality details, and information on error handling, please refer to the [Username Monitoring Application README](username-monitoring-app/README.md).
