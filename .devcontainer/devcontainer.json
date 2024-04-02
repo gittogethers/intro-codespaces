@@ -2,6 +2,6 @@
   "name": "username-monitor",
   "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:14",
   "forwardPorts": [3000],
-  "postCreateCommand": "npm install" "npm install axios",
+  "postCreateCommand": "npm install" 
   "extensions": ["dbaeumer.vscode-eslint"]
 }
